@@ -63,6 +63,8 @@ while(1):
         for b in cluster[a]:
             s1=s1+b[0]
             s2=s2+b[1]
+        if(le==0):
+            break
         s1=s1/(le-1)
         s2=s2/(le-1)
         m.append([s1,s2])
