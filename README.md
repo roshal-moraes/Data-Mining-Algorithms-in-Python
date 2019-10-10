@@ -3,7 +3,7 @@
 ## 1. K-Means Algoritmhm
 ```
 Code available in kmeans.py
-Accepts dataset as:
+Accepts dataset as: (data stored in kdata.csv)
 x,y
 1,1
 2,1
